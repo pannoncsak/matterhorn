@@ -1,0 +1,10 @@
+#timer {
+  width: 200px;
+  margin: 200px auto;
+  background-color: yellowgreen;
+  color: white;
+  border-radius: 125px;
+  font-size: 35px;
+  padding: 2.3em 1ex;
+  text-align: center;
+}
